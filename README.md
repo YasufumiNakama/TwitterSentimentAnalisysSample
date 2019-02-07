@@ -45,3 +45,7 @@ $ python SentimentScore.py
 ~~~
 $ python SentimentRank.py
 ~~~
+## 参考
+1. https://blog.seiyamaeda.com/11269
+2. https://dailytextmining.hatenablog.com/entry/2018/07/12/065500
+3. http://www.cl.ecei.tohoku.ac.jp/index.php?Open%20Resources%2FJapanese%20Sentiment%20Polarity%20Dictionary#t6684569
