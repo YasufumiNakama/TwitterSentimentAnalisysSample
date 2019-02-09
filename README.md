@@ -45,6 +45,9 @@ $ python SentimentScore.py
 ~~~
 $ python SentimentRank.py
 ~~~
+## 課題
+1. ツイート取得の方法を増やす（期間指定やツイート数）  
+2. 感情分析の精度をあげる（係り受け解析）  
 ## 参考
 1. https://blog.seiyamaeda.com/11269
 2. https://dailytextmining.hatenablog.com/entry/2018/07/12/065500
